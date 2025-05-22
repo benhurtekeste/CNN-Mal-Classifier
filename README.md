@@ -21,7 +21,7 @@
   - [📊 Dataset](#-dataset)
   - [📈 Results](#-results)
   - [🤝 Contributing](#-contributing)
-  - [📄 License](#-license)
+
 
 ## 🎯 Overview
 
@@ -32,9 +32,6 @@ This project implements a Convolutional Neural Network (CNN) for classifying mal
 ```
 CNN-Mal-Classifier/
 ├── malware_classifier.ipynb     # Main Jupyter notebook with model implementation
-├── malware_classifier.pth       # Trained model weights
-├── malimg_paper_dataset_imgs/   # Dataset directory
-├── newdata/                     # Directory for new malware samples
 └── README.md                    # Project documentation
 ```
 
@@ -115,13 +112,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-<div align="center">
-Made with ❤️ for the cybersecurity community
-</div> 
